@@ -1,9 +1,11 @@
 # Winr-app
 Introducing Winr – Your Ultimate Win Rate Calculator!
 
-# Introduction
+# Description
 
 Are you tired of guessing how many wins you need to achieve your desired win rate? Look no further! Winr is the ultimate win rate calculator that revolutionizes your gaming progress tracking. Whether you're into offline or online games, Winr has got your back!
+
+# Features
 
 With Winr, you can:
 
@@ -22,6 +24,8 @@ Create profiles for each character you're grinding. Easily recognize your progre
 • Multi-Game Progress Tracking
 
 Track your advancement across all your favorite games. Winr supports a wide variety of games, ensuring you're always on top of your gaming goals.
+
+# Others
 
 Elevate your gaming, elevate your win rate – with Winr!
 
