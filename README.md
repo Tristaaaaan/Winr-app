@@ -30,7 +30,7 @@ Track your advancement across all your favorite games. Winr supports a wide vari
 Elevate your gaming, elevate your win rate – with Winr!
 
 About our permissions:
-Photo Editor Pro asks for permissions "READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE" to read your photos so we can edit and save photos. We do not use this permission for any other purpose.
+Winr asks for permissions "READ_EXTERNAL_STORAGE, and WRITE_EXTERNAL_STORAGE" to read your photos so we can save them. We do not use this permission for any other purpose.
 
 Your feedback matters! Help us improve Winr by providing suggestions directly through the app. We're committed to delivering regular updates, bug fixes, and exciting new features to enhance your experience.
 
